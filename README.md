@@ -4,7 +4,7 @@
 ---
 A curated collection of artwork (wallpapers, alternative user-created logos, official branding, and badges) for the [niri](https://github.com/niri-wm/niri/) Wayland compositor created by [YaLTeR](https://github.com/YaLTeR/).
 
-Have a project that works with niri's scrollable-tiling layout? Add the **works with niri** badge to your README! `<img src="https://github.com/niri-wm/artwork/raw/refs/heads/main/official-branding/workswithniri.svg" width="150" height="auto" alt="works with niri">`
+Have a project (for example, a shell, bar, launcher, or other utility) that works with niri's scrollable-tiling layout? Add the **works with niri** badge to your README! `<img src="https://github.com/niri-wm/artwork/raw/refs/heads/main/official-branding/workswithniri.svg" width="150" height="auto" alt="works with niri">`
 
 # Rules for submission
 1. You must be the creator of all submitted artwork.
